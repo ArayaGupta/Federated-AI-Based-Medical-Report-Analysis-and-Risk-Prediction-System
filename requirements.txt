@@ -1,0 +1,17 @@
+pandas
+numpy
+scikit-learn
+easyocr
+opencv-python
+pillow
+streamlit
+matplotlib
+seaborn
+joblib
+torch
+torchvision
+torchaudio
+openpyxl
+xgboost
+lightgbm
+plotly
